@@ -36,5 +36,5 @@ export default MainLayout;
 
 const Main = styled.div`
     position: relative;
-    background-color: ${COLORS.RED_1};
+    background-color: ${COLORS.PRIMARY};
 `;
